@@ -18,7 +18,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 - [{weatherOz}](https://docs.ropensci.org/weatherOz/) - An API Client for Australian Weather and Climate Data Resources [annual, monthly, daily data, sub-daily (DPIRD only)]
 - [{weathervane}](https://biometryhub.github.io/weathervane/) - Functions to Download Australian Weather Data [annual, monthly and daily data]
  
-## Soil Data
+### Soil Data
 
 - [{SLGACloud}](https://github.com/AusSoilsDSM/SLGACloud) - Access to TERN Landscapes Cloud Optimised GeoTiffs
 - [{read.abares}](https://codeberg.org/adamhsparks/read.abares) - Simple downloading and importing of ABARES Data
