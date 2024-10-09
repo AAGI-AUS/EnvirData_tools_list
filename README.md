@@ -36,6 +36,10 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 - [latlon_utils](https://github.com/Chilipp/latlon-utils) Retrieve WorldClim climate and other information for lat-lon grid cells [monthly and daily data]
 - [pynasapower](https://pynasapower.readthedocs.io/en/latest/) - Download meteorological data from NASA POWER using a simple Python API client (<https://power.larc.nasa.gov/>) [annual, monthly and daily data]
 
+### Miscellaneous
+
+- [{geodata-harvester}](https://github.com/Sydney-Informatics-Hub/geodata-harvester) Comprehensive tool developed by AgReFed for automatic downloading from a wide range of geospatial/environment datasets (including SLGA, SILO, National DEM, DEA Earth Observations, Radiometric data and Google Earth Engine)
+
 ## Julia Packages
 
 ### Weather Data
