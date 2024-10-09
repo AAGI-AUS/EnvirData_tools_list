@@ -1,4 +1,4 @@
-# EnvirData_tools_list
+# AAGI Environmental Data Tools List
 
 A simple repo sharing a list of environmental data (*e.g.*, climate and soils) acquisition tools 
 
