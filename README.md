@@ -23,6 +23,10 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 - [{SLGACloud}](https://github.com/AusSoilsDSM/SLGACloud) - Access to TERN Landscapes Cloud Optimised GeoTiffs
 - [{read.abares}](https://codeberg.org/adamhsparks/read.abares) - Simple downloading and importing of ABARES Data
   - [Soil Thickness Data](https://adamhsparks.codeberg.page/read.abares/reference/get_soil_thickness.html)
+ 
+### Miscellaneous
+
+- [{extractOz}](https://dpird-fsi.github.io/extractOz/) - Get local attribute information from GPS points for Australian agricultural research (includes GRDC Agroecozones, Major Soil Orders and SILO Weather Data)
 
 ## Python Packages
 
