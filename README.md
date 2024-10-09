@@ -18,3 +18,8 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
   - [Soil Thickness Data](https://adamhsparks.codeberg.page/read.abares/reference/get_soil_thickness.html)
 
 
+## Python Packages
+
+### Weather Data
+
+- [pynasapower](https://pynasapower.readthedocs.io/en/latest/) - Download meteorological data from NASA POWER using a simple Python API client (<https://power.larc.nasa.gov/>).
