@@ -8,7 +8,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 
 - [{climenv}](https://github.com/jamestsakalos/climenv) Download, extract and visualise climatic and elevation data (*e.g.*, CHELSA) [monthly and daily]
 - [{ecmwfr}](https://github.com/bluegreen-labs/ecmwfr) Interface to the public ECMWF API Web Services via Copernicus Climate Data Store (CDS) [monthly and daily]
-- [{geodata}](https://github.com/rspatial/geodata) Download geographic data (Hijmans et al. 2023), including:
+- [{geodata}](https://github.com/rspatial/geodata) Download geographic data, including:
   - [CMIP6 Data](https://geodata.ucdavis.edu/cmip6/) [monthly]
   - WorldClim
     - [Historical](https://www.worldclim.org/data/worldclim21.html) [monthly]
