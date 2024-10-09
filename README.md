@@ -15,7 +15,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
     - [Future](https://www.worldclim.org/data/cmip6/cmip6climate.html) [monthly]
 - [{GSODR}](https://docs.ropensci.org/GSODR/) - API Client for Global Surface Summary of the Day (GSOD) Weather Data Client in R [daily data]
 - [{nasapower}](https://docs.ropensci.org/nasapower/) - API Client for NASA POWER Global Meteorology, Surface Solar Energy and Climatology in R [annual, monthly and daily data]
-- [{weatherOz}](https://docs.ropensci.org/weatherOz/) - An API Client for Australian Weather and Climate Data Resources [annual, monthly, daily data, sub-daily (DPIRD only)]
+- [{weatherOz}](https://docs.ropensci.org/weatherOz/) - An API Client for Australian Weather and Climate Data Resources [annual, monthly, daily, sub-daily (DPIRD only), daily (SILO) data]
 - [{weathervane}](https://biometryhub.github.io/weathervane/) - Functions to Download Australian Weather Data [daily data]
  
 ### Soil Data
