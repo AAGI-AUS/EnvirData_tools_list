@@ -22,30 +22,30 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 
 - [{SLGACloud}](https://github.com/AusSoilsDSM/SLGACloud) - Access to TERN Landscapes Cloud Optimised GeoTiffs
 - [{read.abares}](https://codeberg.org/adamhsparks/read.abares) - Simple downloading and importing of ABARES Data
-  - [Soil Thickness Data](https://adamhsparks.codeberg.page/read.abares/reference/get_soil_thickness.html)
+  - Specifically: [Soil Thickness Data](https://adamhsparks.codeberg.page/read.abares/reference/get_soil_thickness.html)
  
 ### Miscellaneous
 
 - [{extractOz}](https://dpird-fsi.github.io/extractOz/) - Get local attribute information from GPS points for Australian agricultural research (includes GRDC Agroecozones, Major Soil Orders and SILO Weather Data)
-- [{dataharvester}]([https://github.com/Sydney-Informatics-Hub/geodata-harvester](https://github.com/Sydney-Informatics-Hub/dataharvester)) Comprehensive tool developed by AgReFed for automatic downloading from a wide range of geospatial/environment datasets (including SLGA, SILO, National DEM, DEA Earth Observations, Radiometric data and Google Earth Engine)
+- [{dataharvester}]([https://github.com/Sydney-Informatics-Hub/geodata-harvester](https://github.com/Sydney-Informatics-Hub/dataharvester) - Comprehensive tool developed by AgReFed for automatic downloading from a wide range of geospatial/environment datasets (including SLGA, SILO, National DEM, DEA Earth Observations, Radiometric data and Google Earth Engine)
 
 ## Python Packages
 
 ### Weather Data
 
-- [cdsapi](https://github.com/ecmwf/cdsapi) Python API to access the Copernicus Climate Data Store (CDS)2 [monthly and daily data data]
-- [latlon_utils](https://github.com/Chilipp/latlon-utils) Retrieve WorldClim climate and other information for lat-lon grid cells [monthly and daily data]
+- [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store (CDS)2 [monthly and daily data data]
+- [latlon_utils](https://github.com/Chilipp/latlon-utils) - Retrieve WorldClim climate and other information for lat-lon grid cells [monthly and daily data]
 - [pynasapower](https://pynasapower.readthedocs.io/en/latest/) - Download meteorological data from NASA POWER using a simple Python API client (<https://power.larc.nasa.gov/>) [annual, monthly and daily data]
 
 ### Miscellaneous
 
-- [geodata-harvester](https://github.com/Sydney-Informatics-Hub/geodata-harvester) Comprehensive tool developed by AgReFed for automatic downloading from a wide range of geospatial/environment datasets (including SLGA, SILO, National DEM, DEA Earth Observations, Radiometric data and Google Earth Engine)
+- [geodata-harvester](https://github.com/Sydney-Informatics-Hub/geodata-harvester) - Comprehensive tool developed by AgReFed for automatic downloading from a wide range of geospatial/environment datasets (including SLGA, SILO, National DEM, DEA Earth Observations, Radiometric data and Google Earth Engine)
 
 ## Julia Packages
 
 ### Weather Data
 
-- [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) Julia API to the Climate Data Store (a.k.a. CDS)1 [monthly and daily data]
-- [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) Easily download and use raster data sets in Julia (*e.g.*, WorldClim, CHELSA)
+- [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) - Julia API to the Climate Data Store (a.k.a. CDS)1 [monthly and daily data]
+- [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) - Easily download and use raster data sets in Julia (*e.g.*, WorldClim, CHELSA)
   - WorldClim [monthly data]
   - CHELSA (Climatologies at high resolution for the earth’s land surface areas) [monthly and daily data]
