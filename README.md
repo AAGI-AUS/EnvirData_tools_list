@@ -27,7 +27,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 ### Miscellaneous
 
 - [{extractOz}](https://dpird-fsi.github.io/extractOz/) - Get local attribute information from GPS points for Australian agricultural research (includes GRDC Agroecozones, Major Soil Orders and SILO Weather Data)
-- [{dataharvester}](https://sydney-informatics-hub.github.io/dataharvester/) - Comprehensive tool developed by AgReFed for automatic downloading from a wide range of geospatial/environment datasets (including SLGA, SILO, National DEM, DEA Earth Observations, Radiometric data and Google Earth Engine)
+- [{dataharvester}](https://sydney-informatics-hub.github.io/dataharvester/) - Preprocess, aggregate, visualise and download geospatial data from a range of Australian (and international) data sources
 
 ## Python Packages
 
