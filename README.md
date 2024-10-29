@@ -46,7 +46,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 
 ### Weather Data
 
-- [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) - Julia API to the Climate Data Store (a.k.a. CDS)1 [monthly and daily data]
+- [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) - Julia API to the Climate Data Store (a.k.a. CDS) [monthly and daily data]
 - [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) - Easily download and use raster data sets in Julia (*e.g.*, WorldClim, CHELSA)
   - WorldClim [monthly data]
   - CHELSA (Climatologies at high resolution for the earth’s land surface areas) [monthly and daily data]
