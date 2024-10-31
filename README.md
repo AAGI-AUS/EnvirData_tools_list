@@ -50,3 +50,10 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 - [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) - Easily download and use raster data sets in Julia (*e.g.*, WorldClim, CHELSA)
   - WorldClim [monthly data]
   - CHELSA (Climatologies at high resolution for the earth’s land surface areas) [monthly and daily data]
+
+## Remote Sensing
+
+### Satellite Data
+
+- [TERN AET CMRSET](https://portal.tern.org.au/metadata/TERN/9fefa68b-dbed-4c20-88db-a9429fb4ba97) - TERN’s AET data provides Australia-wide coverage at a 30m resolution every month (continuous with no gaps due to clouds) using the CSIRO MODIS Reflectance-based Scaling EvapoTranspiration (CMRSET) algorithm 
+- [Google Earth Engine TERN AET CMRSET](https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2) - Actual Evapotranspiration for Australia (CMRSET Landsat V2.2) from TERN also downloadable from GEE
