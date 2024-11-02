@@ -8,6 +8,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 
 - [{ag5tools}](https://agrdatasci.github.io/ag5Tools/) R toolbox to download and extract data from the "Agrometeorological indicators from 1979 to present derived from reanalysis" (AgERA5) dataset [daily]
 - [{climenv}](https://github.com/jamestsakalos/climenv) Download, extract and visualise climatic and elevation data (*e.g.*, CHELSA) [monthly and daily]
+- [{cropgrowdays](https://gitlab.com/petebaker/cropgrowdays) Crop Growing Degree Days and Agrometeorological Calculations
 - [{ecmwfr}](https://github.com/bluegreen-labs/ecmwfr) Interface to the public ECMWF API Web Services via Copernicus Climate Data Store (CDS) [monthly and daily]
 - [{geodata}](https://github.com/rspatial/geodata) Download geographic data, including:
   - [CMIP6 Data](https://geodata.ucdavis.edu/cmip6/) [monthly]
