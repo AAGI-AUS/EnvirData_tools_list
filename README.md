@@ -8,7 +8,6 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 
 - [{ag5tools}](https://agrdatasci.github.io/ag5Tools/) R toolbox to download and extract data from the "Agrometeorological indicators from 1979 to present derived from reanalysis" (AgERA5) dataset [daily]
 - [{climenv}](https://github.com/jamestsakalos/climenv) Download, extract and visualise climatic and elevation data (*e.g.*, CHELSA) [monthly and daily]
-- [{cropgrowdays](https://gitlab.com/petebaker/cropgrowdays) Crop Growing Degree Days and Agrometeorological Calculations
 - [{ecmwfr}](https://github.com/bluegreen-labs/ecmwfr) Interface to the public ECMWF API Web Services via Copernicus Climate Data Store (CDS) [monthly and daily]
 - [{geodata}](https://github.com/rspatial/geodata) Download geographic data, including:
   - [CMIP6 Data](https://geodata.ucdavis.edu/cmip6/) [monthly]
@@ -17,7 +16,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
     - [Future](https://www.worldclim.org/data/cmip6/cmip6climate.html) [monthly]
 - [{GSODR}](https://docs.ropensci.org/GSODR/) - API Client for Global Surface Summary of the Day (GSOD) Weather Data Client in R [daily data]
 - [{nasapower}](https://docs.ropensci.org/nasapower/) - API Client for NASA POWER Global Meteorology, Surface Solar Energy and Climatology in R [annual, monthly and daily data]
-- [{weatherOz}](https://docs.ropensci.org/weatherOz/) - An API Client for Australian Weather and Climate Data Resources [annual, monthly, daily, sub-daily (DPIRD only), daily (SILO) data]
+- [{weatherOz}](https://docs.ropensci.org/weatherOz/) - An API Client for Australian Weather and Climate Data Resources [annual, monthly, daily, sub-daily (DPIRD only), daily (SILO) data, BOM Précis Forecasts, Ag Bulletins, etc.]
 - [{weathervane}](https://biometryhub.github.io/weathervane/) - Functions to Download Australian Weather Data [daily data]
  
 ### Soil Data
@@ -28,6 +27,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
  
 ### Miscellaneous
 
+- [{cropgrowdays}](https://gitlab.com/petebaker/cropgrowdays) Crop Growing Degree Days and Agrometeorological Calculations (Uses SILO Weather Data)
 - [{extractOz}](https://dpird-fsi.github.io/extractOz/) - Get local attribute information from GPS points for Australian agricultural research (includes GRDC Agroecozones, Major Soil Orders and SILO Weather Data)
 - [{dataharvester}](https://sydney-informatics-hub.github.io/dataharvester/) - Preprocess, aggregate, visualise and download geospatial data from a range of Australian (and international) data sources
 
