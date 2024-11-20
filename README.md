@@ -28,7 +28,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 ### Miscellaneous
 
 - [{cropgrowdays}](https://gitlab.com/petebaker/cropgrowdays) Crop Growing Degree Days and Agrometeorological Calculations (Uses SILO Weather Data)
-- [{extractOz}](https://dpird-fsi.github.io/extractOz/) - Get local attribute information from GPS points for Australian agricultural research (includes GRDC Agroecozones, Major Soil Orders and SILO Weather Data)
+- [{fifo}](https://adamhsparks.codeberg.page/fifo/) - ‘Fly in fly out’ to Mine Your Valuable Data and Extract You Need From Your Australian Georeferenced Datasets using GPS points for agricultural research (includes GRDC Agroecozones, Major Soil Orders and SILO Weather Data)
 - [{dataharvester}](https://sydney-informatics-hub.github.io/dataharvester/) - Preprocess, aggregate, visualise and download geospatial data from a range of Australian (and international) data sources
 
 ## Python Packages
