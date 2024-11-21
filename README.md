@@ -6,7 +6,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 
 ### Weather Data
 
-- [{ag5tools}](https://agrdatasci.github.io/ag5Tools/) R toolbox to download and extract data from the "Agrometeorological indicators from 1979 to present derived from reanalysis" (AgERA5) dataset [daily]
+- [{ag5tools}](https://agrdatasci.github.io/ag5Tools/) R toolbox to download and extract data from the "Agrometeorological indicators from 1979 to present derived from reanalysis" ([AgERA5](https://cds.climate.copernicus.eu/datasets/sis-agrometeorological-indicators?tab=overview)) dataset [daily]; see also [agera5tools](https://pypi.org/project/agera5tools/) for Python
 - [{climenv}](https://github.com/jamestsakalos/climenv) Download, extract and visualise climatic and elevation data (*e.g.*, CHELSA) [monthly and daily]
 - [{ecmwfr}](https://github.com/bluegreen-labs/ecmwfr) Interface to the public ECMWF API Web Services via Copernicus Climate Data Store (CDS) [monthly and daily]
 - [{geodata}](https://github.com/rspatial/geodata) Download geographic data, including:
@@ -14,8 +14,8 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
   - WorldClim
     - [Historical](https://www.worldclim.org/data/worldclim21.html) [monthly]
     - [Future](https://www.worldclim.org/data/cmip6/cmip6climate.html) [monthly]
-- [{GSODR}](https://docs.ropensci.org/GSODR/) - API Client for Global Surface Summary of the Day (GSOD) Weather Data Client in R [daily data]
-- [{nasapower}](https://docs.ropensci.org/nasapower/) - API Client for NASA POWER Global Meteorology, Surface Solar Energy and Climatology in R [annual, monthly and daily data]
+- [{GSODR}](https://docs.ropensci.org/GSODR/) - API Client for [Global Surface Summary of the Day (GSOD)](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00516) Weather Data Client in R [daily data]
+- [{nasapower}](https://docs.ropensci.org/nasapower/) - API Client for [NASA POWER Global Meteorology, Surface Solar Energy and Climatology](https://power.larc.nasa.gov/) in R [annual, monthly and daily data]
 - [{weatherOz}](https://docs.ropensci.org/weatherOz/) - An API Client for Australian Weather and Climate Data Resources [annual, monthly, daily, sub-daily (DPIRD only), daily (SILO) data, BOM Précis Forecasts, Ag Bulletins, etc.]
 - [{weathervane}](https://biometryhub.github.io/weathervane/) - Functions to Download Australian Weather Data [daily data]
  
@@ -38,6 +38,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 - [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store (CDS)2 [monthly and daily data data]
 - [latlon_utils](https://github.com/Chilipp/latlon-utils) - Retrieve WorldClim climate and other information for lat-lon grid cells [monthly and daily data]
 - [pynasapower](https://pynasapower.readthedocs.io/en/latest/) - Download meteorological data from NASA POWER using a simple Python API client (<https://power.larc.nasa.gov/>) [annual, monthly and daily data]
+- [agera5tools](https://pypi.org/project/agera5tools/) - Tools for mirroring, manipulating (exporting, extracting) and serving [AgERA5](https://cds.climate.copernicus.eu/datasets/sis-agrometeorological-indicators?tab=overview) data [daily data]; see also [{ag5tools}](https://agrdatasci.github.io/ag5Tools/) for R
 
 ### Miscellaneous
 
