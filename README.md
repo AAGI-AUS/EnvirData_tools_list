@@ -24,6 +24,7 @@ A simple repo sharing a list of environmental data (*e.g.*, climate and soils) a
 - [{SLGACloud}](https://github.com/AusSoilsDSM/SLGACloud) - Access to TERN Landscapes Cloud Optimised GeoTiffs
 - [{read.abares}](https://codeberg.org/adamhsparks/read.abares) - Simple downloading and importing of ABARES Data
   - Specifically: [Soil Thickness Data](https://adamhsparks.codeberg.page/read.abares/reference/get_soil_thickness.html)
+- [{nert}](https://github.com/AAGI-AUS/nert) - Provides streamlined access in R to the TERN Soil Moisture Integration and Prediction System (SMIPS) datasets
  
 ### Miscellaneous
 
